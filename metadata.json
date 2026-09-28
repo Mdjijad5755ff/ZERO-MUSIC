@@ -1,0 +1,6 @@
+{
+  "name": "ZERO MUSIC",
+  "description": "ZERO MUSIC by Zenith - Your Music, Your World. Premium lightweight modern music player with local audio scanning, background playback, equalizer, playlists, sleep timer, and lyrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

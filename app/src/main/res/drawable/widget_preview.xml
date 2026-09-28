@@ -1,0 +1,60 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="250dp"
+    android:height="90dp"
+    android:viewportWidth="250"
+    android:viewportHeight="90">
+    <!-- Card Background -->
+    <path
+        android:fillColor="#181D29"
+        android:strokeColor="#334DD0E1"
+        android:strokeWidth="1.5"
+        android:pathData="M24,4 H226 A20,20 0 0 1 246,24 V66 A20,20 0 0 1 226,86 H24 A20,20 0 0 1 4,66 V24 A20,20 0 0 1 24,4 Z" />
+
+    <!-- Album Art Thumbnail -->
+    <path
+        android:fillColor="#222B3D"
+        android:pathData="M24,14 H66 A10,10 0 0 1 76,24 V66 A10,10 0 0 1 66,76 H24 A10,10 0 0 1 14,66 V24 A10,10 0 0 1 24,14 Z" />
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M45,36v15.55c-0.59,-0.34 -1.27,-0.55 -2,-0.55 -2.21,0 -4,1.79 -4,4s1.79,4 4,4 4,-1.79 4,-4V40h4v-4h-6z"/>
+
+    <!-- Track Title & Artist lines -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M90,28 H150 V34 H90 Z" />
+    <path
+        android:fillColor="#8C98AC"
+        android:pathData="M90,40 H130 V45 H90 Z" />
+    <!-- Progress Bar -->
+    <path
+        android:fillColor="#2A3548"
+        android:pathData="M90,56 H155 V59 H90 Z" />
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M90,56 H120 V59 H90 Z" />
+
+    <!-- Controls -->
+    <!-- Prev button -->
+    <path
+        android:fillColor="#263144"
+        android:pathData="M172,45 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M167,41h1.5v8H167zm2.5,4l5,4v-8z"/>
+
+    <!-- Play button -->
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M198,45 m-16,0 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0" />
+    <path
+        android:fillColor="#10141D"
+        android:pathData="M194,39v12l9,-6z"/>
+
+    <!-- Next button -->
+    <path
+        android:fillColor="#263144"
+        android:pathData="M224,45 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M220,49l5,-4 -5,-4v8zm5.5,-8h1.5v8h-1.5z"/>
+</vector>

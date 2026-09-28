@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZERO MUSIC</string>
+    <string name="support_our_music_title">Support Our Music</string>
+    <string name="support_our_music_desc">If you enjoy listening to our music, you can support us with a crypto donation. Your support helps us create more music.</string>
+    <string name="support_our_music_network">Crypto Donation · BNB Smart Chain (BEP-20)</string>
+    <string name="support_our_music_address">0xd62c6f92872A3ee4b6Db1459A1FC142fE94Cf6Fb</string>
+    <string name="widget_name">Zero Music</string>
+    <string name="widget_description">Home Screen music playback controls and track information</string>
+    <string name="widget_no_song_title">No song playing</string>
+    <string name="widget_tap_to_play">Tap to open Zero Music</string>
+    <string name="widget_action_play">Play</string>
+    <string name="widget_action_pause">Pause</string>
+    <string name="widget_action_prev">Previous track</string>
+    <string name="widget_action_next">Next track</string>
+    <string name="widget_album_art_desc">Album artwork</string>
+</resources>
